@@ -19,6 +19,106 @@
         "Spend without planning"
       ],
       "answer": "Think if you really need it"
+    },
+    {
+      "question": "What is a good habit for managing money?",
+      "options": [
+        "Spend everything immediately",
+        "Track your expenses",
+        "Ignore your bills",
+        "Borrow from friends often"
+      ],
+      "answer": "Track your expenses"
+    },
+    {
+      "question": "Which of these helps you save money effectively?",
+      "options": [
+        "Create a monthly budget",
+        "Buy things on impulse",
+        "Use credit cards without tracking",
+        "Avoid planning expenses"
+      ],
+      "answer": "Create a monthly budget"
+    },
+    {
+      "question": "Why is it important to have an emergency fund?",
+      "options": [
+        "To pay for unexpected expenses",
+        "To spend on luxury items",
+        "To avoid working",
+        "To borrow more money"
+      ],
+      "answer": "To pay for unexpected expenses"
+    },
+    {
+      "question": "Which of these is a smart way to invest money?",
+      "options": [
+        "Invest in well-researched stocks",
+        "Gamble in casinos",
+        "Spend all savings on gadgets",
+        "Ignore investments completely"
+      ],
+      "answer": "Invest in well-researched stocks"
+    },
+    {
+      "question": "What is the best way to avoid high debt?",
+      "options": [
+        "Only borrow when necessary and pay on time",
+        "Borrow as much as possible",
+        "Ignore credit card bills",
+        "Take loans without checking interest"
+      ],
+      "answer": "Only borrow when necessary and pay on time"
+    },
+    {
+      "question": "Why should you compare prices before buying?",
+      "options": [
+        "To get the best value for money",
+        "So you can spend more",
+        "It’s not important",
+        "To waste time"
+      ],
+      "answer": "To get the best value for money"
+    },
+    {
+      "question": "What is a good way to plan for future expenses?",
+      "options": [
+        "Create a savings plan",
+        "Spend money randomly",
+        "Borrow from friends",
+        "Ignore bills"
+      ],
+      "answer": "Create a savings plan"
+    },
+    {
+      "question": "Which of these is a bad financial habit?",
+      "options": [
+        "Buying things impulsively",
+        "Saving a portion of your income",
+        "Tracking expenses",
+        "Paying bills on time"
+      ],
+      "answer": "Buying things impulsively"
+    },
+    {
+      "question": "What is a benefit of budgeting?",
+      "options": [
+        "Helps control spending and save money",
+        "Helps spend more",
+        "Reduces income",
+        "Eliminates bills"
+      ],
+      "answer": "Helps control spending and save money"
+    },
+    {
+      "question": "Why should you avoid borrowing for non-essential items?",
+      "options": [
+        "To prevent unnecessary debt",
+        "Because borrowing is always bad",
+        "It doesn’t matter",
+        "So you can spend more"
+      ],
+      "answer": "To prevent unnecessary debt"
     }
   ]
 }
