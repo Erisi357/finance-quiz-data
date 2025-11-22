@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is a good habit for saving money?",
+      "options": [
+        "Spend all your money",
+        "Save a small amount each week",
+        "Buy things you don't need",
+        "Borrow money often"
+      ],
+      "answer": "Save a small amount each week"
+    },
+    {
+      "question": "What should you do before buying something?",
+      "options": [
+        "Think if you really need it",
+        "Buy instantly",
+        "Use all your savings",
+        "Spend without planning"
+      ],
+      "answer": "Think if you really need it"
+    }
+  ]
+}
